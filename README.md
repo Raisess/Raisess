@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on some cool bots.
 - 🌱 I’m currently learning TypeScript and later maybe Rust.
-- ⚡ Fun fact: I love vim because others editor sucks.
+- ⚡ Fun fact: I love vim because others editors sucks.
