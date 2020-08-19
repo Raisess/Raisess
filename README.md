@@ -6,4 +6,4 @@
 - ❤️ TypeScript, Node, C++ and vim.
 - ⚡ Fun fact: I'm bassist, I love cats and I love vim because others editors sucks.
 
-![Raisess github stats](https://github-readme-stats.vercel.app/api?username=Raisess)
+![Raisess github stats](https://github-readme-stats.vercel.app/api?username=Raisess&count_private=true&show_icons=true&theme=solarized-dark)
