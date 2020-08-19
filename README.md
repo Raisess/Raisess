@@ -1,4 +1,4 @@
-### Hi there I'm Danilo, FullStack dev 👋
+### Hi there I'm Danilo, FullStack DEV 👋
 
 - 👨 17 years old.
 - 🔭 I’m currently working on some cool bots.
