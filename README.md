@@ -7,3 +7,4 @@
 - ⚡ Fun fact: I'm bassist, I love cats and I love vim because others editors sucks.
 
 ![Raisess github stats](https://github-readme-stats.vercel.app/api?username=Raisess&count_private=true&show_icons=true&theme=solarized-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raisess&layout=compact)
