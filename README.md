@@ -1,6 +1,6 @@
 ### Hi there I'm Danilo, FullStack DEV 👋
 
-- 👨 17 years old.
+- 👨 18 years old.
 - 🔭 I’m currently working on some cool bots.
 - 🌱 I’m currently learning TypeScript and maybe later Rust, Go or Lua.
 - ❤️ TypeScript, NodeJS, C++ and VIM.
