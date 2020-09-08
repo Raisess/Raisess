@@ -1,6 +1,6 @@
 ### Hi there I'm Danilo, FullStack DEV 👋
 
-![gif](https://media1.tenor.com/images/2199ee0fae3311caa78aaff45002418b/tenor.gif?itemid=16019607)
+![gif](https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif?itemid=17348386)
 
 - 👨 18 years old.
 - 🔭 I’m currently working on some cool bots.
