@@ -21,4 +21,4 @@
 
 ## Stats
 
-![Raisess github stats](https://github-readme-stats.vercel.app/api?username=Raisess&count_private=true&show_icons=true&theme=monokai)
+<!--![Raisess github stats](https://github-readme-stats.vercel.app/api?username=Raisess&count_private=true&show_icons=true&theme=monokai)-->
