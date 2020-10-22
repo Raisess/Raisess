@@ -19,6 +19,6 @@
   <a href="https://www.linkedin.com/in/danilo-santana-20a6431b1/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
 </code>
 
-## Stats
+<!--## Stats-->
 
 <!--![Raisess github stats](https://github-readme-stats.vercel.app/api?username=Raisess&count_private=true&show_icons=true&theme=monokai)-->
