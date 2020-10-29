@@ -10,6 +10,7 @@
 - 🤖 I love creating bots.
 - ❤️ TypeScript, NodeJS, C++ and VIM.
 - ⚡ Fun fact: I'm bassist, I love cats and I love vim because others editors sucks.
+- 📩 My Discord: another dan#1551.
 
 ## Socials
 
