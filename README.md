@@ -5,7 +5,7 @@
 ## About me
 
 - 👨 18 years old.
-- 🔭 I’m currently working on some cool bots.
+- 🔭 I’m currently working on some open-source projects.
 - 🌱 I’m currently learning TypeScript and maybe later Rust, Go or Lua.
 - 🤖 I love creating bots.
 - ❤️ TypeScript, NodeJS, C++ and VIM.
