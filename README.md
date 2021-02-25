@@ -34,4 +34,6 @@
 
 ## Stats
 
-![Raisess github stats](https://github-readme-stats.vercel.app/api?username=Raisess&count_private=true&show_icons=true&theme=gruvbox)
+![Raisess github stats](https://github-readme-stats.vercel.app/api?username=Raisess&count_private=true&show_icons=true&theme=onedark)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raisess&layout=compact&theme=onedark)
