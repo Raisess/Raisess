@@ -6,7 +6,7 @@
 
 - 👨 18 years old.
 - 🔭 I’m currently working on some open-source projects and I don't have a job, can u hire me? (fullstack dev btw)
-- 🤖 I love creating bots.
+- 🤖 I love creating bots and automated tools.
 - ❤️ TypeScript, NodeJS, C++ and VIM also I can code in PHP too, but don't tell anyone. 🤫
 - ⚡ Fun fact: I'm bassist, I love cats and I love vim because others editors sucks.
 - 📩 My Discord: **another dan#1551**.
