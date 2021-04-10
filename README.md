@@ -22,6 +22,7 @@
 ## Dev stack
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" alt="php"/></code>
@@ -31,6 +32,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmyl.es%2Fwurdp%2Fassets%2Fmongodb.png&f=1&nofb=1" alt="MongoDB"/></code>
 
 ## Stats
 
