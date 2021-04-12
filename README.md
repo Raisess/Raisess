@@ -1,7 +1,5 @@
 # Hi there I'm Danilo, I'm a DEV 👋
 
-![gif](https://media1.tenor.com/images/abe71f1bb871b5e473ea275fbad92aa2/tenor.gif?itemid=8673610)
-
 ## About me
 
 - 👨 18 years old.
