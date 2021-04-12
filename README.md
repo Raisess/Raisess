@@ -8,8 +8,10 @@
 - ⚡ Fun fact: I'm bassist, I love cats and I love vim because others editors sucks.
 - 📩 My Discord: **another dan#1551**.
 
+## Contact
 
-- [Linkedin](https://www.linkedin.com/in/danilo-santana-20a6431b1/)
+#### [Linkedin](https://www.linkedin.com/in/danilo-santana-20a6431b1/)
+#### [Gmail](danilosantana456789@gmail.com)
 
 ## Dev stack
 
