@@ -1,4 +1,4 @@
-# Hi there I'm Danilo, I'm a DEV 👋
+# Hello there, I'm Danilo 👋
 
 ## About me
 
