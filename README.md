@@ -1,5 +1,7 @@
 # Hello there, I'm Danilo 👋
 
+![jiff](https://media1.tenor.com/images/e884f717b42f78f0792d914117cd010d/tenor.gif?itemid=9442662)
+
 ## About me
 
 - 🔭 I’m currently working on some open-source projects and I don't have a job, can u hire me? (fullstack dev btw)
