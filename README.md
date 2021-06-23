@@ -5,8 +5,8 @@
 ## About me
 
 - 👨🏻‍💻 Backend and Frontend development skills.
-- 🤖 I love creating bots and automated tools.
-- ❤️ In love with TypeScript and VIM.
+- 🤖 I love creating bots, crawlers, scrapers and automated tools.
+- ❤️ In love with TypeScript, Vim and Linux.
 - ⚡ Fun fact: I'm bassist, I love cats and I love vim because others editors sucks.
 - 📩 Discord: **another dan#1551**.
 
